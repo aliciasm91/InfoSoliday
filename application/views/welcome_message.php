@@ -67,15 +67,7 @@
                         <a class="page-scroll" href="#contact">Contacto</a>
                     </li>
                     <li>
-<<<<<<< HEAD
                         <a href="<?php echo base_url();?>articulos_controller">Aticulos Donados</a>
-=======
-
-
-                        <a href="<?php echo base_url();?>articulos_controller" class="btn btn-success btn-lg">Aticulos Donados</a>
-
-
->>>>>>> 354ddba397e3aa42edc6c0467d1c34a05746ef48
                     </li>
                     <li>
                         <a href="<?php echo base_url();?>login_controller">Login</a>
