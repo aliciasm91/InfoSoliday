@@ -67,15 +67,10 @@
                         <a class="page-scroll" href="#contact">Contacto</a>
                     </li>
                     <li>
-
-
-                        <a href="<?php echo base_url();?>articulos_controller" class="btn btn-success btn-lg">Aticulos Donados</a>
-
-                        <a class="page-scroll" href="" >Articulos Donados</a>
-
+                        <a href="<?php echo base_url();?>articulos_controller">Aticulos Donados</a>
                     </li>
                     <li>
-                        <a class="page-scroll" >Login</a>
+                        <a href="<?php echo base_url();?>login_controller">Login</a>
                     </li>
                 </ul>
             </div>
@@ -88,7 +83,7 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="navbar-brand page-scroll" href="#page-top"><img src="styles/img/logotipo.png" class="img-responsive" alt=""></div>
+                <div class="navbar-brand page-scroll" href="#page-top"><img src="styles/img/logotipo.jpg" class="img-responsive" alt=""></div>
                 <div class="intro-heading">Únete a nosotros</div>
             </div>
         </div>
