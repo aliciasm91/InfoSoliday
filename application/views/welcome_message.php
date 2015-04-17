@@ -46,7 +46,6 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-               <a class="navbar-brand page-scroll" href="#page-top"><img src="styles/img/logotipo.png" class="img-responsive" alt=""></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -68,12 +67,12 @@
                         <a class="page-scroll" href="#contact">Contacto</a>
                     </li>
                     <li>
-<<<<<<< HEAD
+
 
                         <a href="<?php echo base_url();?>articulos_controller" class="btn btn-success btn-lg">Aticulos Donados</a>
-=======
+
                         <a class="page-scroll" href="" >Articulos Donados</a>
->>>>>>> 34d74fca5416092ada2925d6b0deade2f03c6393
+
                     </li>
                     <li>
                         <a class="page-scroll" >Login</a>
@@ -89,9 +88,8 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Welcome To Our Studio!</div>
-                <div class="intro-heading">It's Nice To Meet You</div>
-                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
+                <div class="navbar-brand page-scroll" href="#page-top"><img src="styles/img/logotipo.png" class="img-responsive" alt=""></div>
+                <div class="intro-heading">Únete a nosotros</div>
             </div>
         </div>
     </header>
