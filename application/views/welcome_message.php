@@ -71,12 +71,19 @@
 
                         <a href="<?php echo base_url();?>articulos_controller" class="btn btn-success btn-lg">Aticulos Donados</a>
 
-                        <a class="page-scroll" href="" >Articulos Donados</a>
 
                     </li>
                     <li>
                         <a class="page-scroll" >Login</a>
                     </li>
+                </ul>
+                <ul class="list-inline social-buttons">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -282,14 +289,6 @@
                     <span class="copyright">Copyright &copy; Your Website 2014</span>
                 </div>
                 <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                        </li>
-                    </ul>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
@@ -383,14 +382,6 @@
                         <img src="styles/img/team/1.jpg" class="img-responsive img-circle" alt="">
                         <h4>Kay Garland</h4>
                         <p class="text-muted">Lead Designer</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
                 <div class="col-sm-4">
@@ -398,14 +389,6 @@
                         <img src="styles/img/team/2.jpg" class="img-responsive img-circle" alt="">
                         <h4>Larry Parker</h4>
                         <p class="text-muted">Lead Marketer</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
                 <div class="col-sm-4">
@@ -413,14 +396,6 @@
                         <img src="styles/img/team/3.jpg" class="img-responsive img-circle" alt="">
                         <h4>Diana Pertersen</h4>
                         <p class="text-muted">Lead Developer</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
