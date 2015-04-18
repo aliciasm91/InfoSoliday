@@ -95,9 +95,8 @@
         <div class="container">
             <div class="intro-text">
                 <center>
-                <img src="styles/img/logotipo.jpg" class="img-responsive" alt="">
+                <img src="styles/img/logotipo.png" class="img-responsive" alt="">
                 </center>
-                
                 <div class="intro-heading">Únete a nosotros</div>
             </div>
         </div>
