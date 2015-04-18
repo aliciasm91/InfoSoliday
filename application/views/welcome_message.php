@@ -116,7 +116,7 @@
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="ImagenesNoticias/caritas.jpg" alt="">
+                                <img class="img-circle img-responsive" src="styles/img/about/1.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
