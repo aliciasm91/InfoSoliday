@@ -120,11 +120,11 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>2009-2011</h4>
-                                    <h4 class="subheading">Our Humble Beginnings</h4>
+                                    <h4>Abril-2015</h4>
+                                    <h4 class="subheading">En Cádiz, las Cáritas parroquiales del centro estudian crear un economato social</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">Los grupos de Cáritas de las parroquias del casco histórico están estudiando la posibilidad de unir sus fuerzas para poner en funcionamiento un economato social desde el que atender a las familias que periódicamente reciben alimentos y otros productos para la higiene o para bebés. El espectacular incremento del número de familias que son atendidas cada semana o cada mes en las parroquias de toda la ciudad -y que sigue creciendo- está desbordando la atención de los voluntarios de Cáritas, lo que ha motivado este planteamiento de crear un economato social. </p>
                                 </div>
                             </div>
                         </li>
@@ -134,11 +134,11 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>March 2011</h4>
-                                    <h4 class="subheading">An Agency is Born</h4>
+                                    <h4>Marzo-2015</h4>
+                                    <h4 class="subheading">Las carreras populares se apuntan a la solidaridad</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">La Carrera Solidaria Manos Unidas se adueñó el pasado fin de semana de las calles de Avilés. Y este, la Carrera en Favor de Asempa (Asociación de Enfermos Neuromusculares), en Gijón, la Carrera Solidaria Contra el Hambre, en Oviedo, y la Carrera Castrillón Moving4 (niños con artritis) tomarán el relevo. Y así un buen número de fines de semana durante todo el año que han convertido a las pruebas populares en un buen instrumento para conseguir recursos para programas para los más desprotegidos y para sensibilizar a la sociedad sobre la lucha silenciosa que llevan muchas personas contra enfermedades raras.</p>
                                 </div>
                             </div>
                         </li>
@@ -149,10 +149,10 @@
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
+                                    <h4 class="subheading">Solidaridad a pie de playa</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">En Tenerife más de 600 alumnos del instituto de El Sobradillo participan en la quinta edición de las Jornadas de Voluntariado con actividades destinadas al cuidado de Las Teresitas</p>
                                 </div>
                             </div>
                         </li>
