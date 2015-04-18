@@ -149,10 +149,10 @@
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
+                                    <h4 class="subheading">Solidaridad a pie de playa</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">En Tenerife más de 600 alumnos del instituto de El Sobradillo participan en la quinta edición de las Jornadas de Voluntariado con actividades destinadas al cuidado de Las Teresitas</p>
                                 </div>
                             </div>
                         </li>
