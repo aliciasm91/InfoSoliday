@@ -51,7 +51,7 @@ class Articulos_controller extends CI_Controller{
 				'id_categoria'	=> $this->input->post('id_categoria')
 			);
 		$this->articulos_model->newArticulo($data);
-		$this->index();
+		redirect('articulos_controller', 'refresh');
 	}
 
 	//Lleva a la vista con el formulario para modificar los datos.

@@ -37,7 +37,7 @@ class Login_controller extends CI_Controller{
 			$info_usuario=array('habilitado' =>TRUE);
 			$this->session->set_userdata($info_usuario); // configuramos la variable de sessión 'habilitado'
 
-	 		redirect('usuarios_controller', 'refresh');
+	 		redirect('articulos_controller', 'refresh');
  		}
  		$message['error'] = 'Correo o contraseña incorrecto.';
  		$this->load->view('form_login', $message);

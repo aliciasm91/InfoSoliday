@@ -83,13 +83,44 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="navbar-brand page-scroll" href="#page-top"><img src="styles/img/logotipo.jpg" class="img-responsive" alt=""></div>
+                <center>
+                <img src="styles/img/logotipo.png" class="img-responsive" alt="">
+                </center>
                 <div class="intro-heading">Únete a nosotros</div>
             </div>
         </div>
     </header>
 
-    <footer>
+    
+
+      <!-- Articulos Donados -->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Articulos donados </h2>
+                    <h3 class="section-subheading text-muted">Aquí puedes ver lor artículos que quieren ser donados y puedes aportar tú alguno más.</h3>
+                </div>
+            </div>
+                        <center><a href="<?php echo base_url();?>articulos_controller/newArticulo" class= "btn btn-success btn-lg"> Donar Articulo</a></center>
+
+            <div class="row text-center">
+               <?PHP
+                if($articulos){
+        foreach ($articulos->result() as $articulo){ ?>
+         <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading"><?= $articulo->descripcion; ?></h4>
+            </div>
+    <?PHP }
+    }else echo 'No hay datos.';?>
+            </div>
+        </div>
+    </section>
+<footer>
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
@@ -117,52 +148,8 @@
         </div>
     </footer>
 
-      <!-- Articulos Donados -->
-    <section id="services">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Articulos donados </h2>
-                    <h3 class="section-subheading text-muted">Aquí puedes ver lor artículos que quieren ser donados y puedes aportar tú alguno más.</h3>
-                </div>
-            </div>
-            <div class="row text-center">
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">E-Commerce</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Responsive Design</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Web Security</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <?PHP
-	if($articulos){
-		foreach ($articulos->result() as $articulo){ ?>
-		<ul>
-			<li><?= $articulo->id; ?> <?= $articulo->imagen; ?> <?= $articulo->descripcion; ?> <?= $articulo->id_usuario; ?></li>
-		</ul>
-	<?PHP }
-	}else echo 'No hay datos.';?>
+    
 
     <!-- jQuery -->
     <script src="styles/js/jquery.js"></script>
