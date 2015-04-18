@@ -108,7 +108,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Noticias Solidarias</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
             <div class="row">
@@ -116,7 +116,7 @@
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="styles/img/about/1.jpg" alt="">
+                                <img class="img-circle img-responsive" src="ImagenesNoticias/caritas.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -156,20 +156,7 @@
                                 </div>
                             </div>
                         </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="styles/img/about/4.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>July 2014</h4>
-                                    <h4 class="subheading">Phase Two Expansion</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                                </div>
-                            </div>
-                        </li>
+                       
                         <li class="timeline-inverted">
                             <a class="btn btn-success timeline-image" href="<?php echo base_url();?>noticias_controller" >
                                 <h4>Leer
@@ -234,8 +221,6 @@
                         <p class="text-muted">ONG</p>
                     </div>
                 </div>
-               
-               
                
             </div>
         </div>
@@ -319,13 +304,13 @@
             </div>
          
                    <center>
-                        <img src="styles/img/team/4.jpeg" class="img-responsive img-circle" alt="">
+                        <img src="styles/img/team/5.jpg" class="img-responsive img-circle" alt="">
                         <h4>InfoSolidary</h4>
                   </center>
                 
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">InfoSolidary somos un grupo de jóvenes .</p>
+                    <p class="large text-muted">InfoSolidary somos un grupo de jóvenes concienciados del poder de las nuevas tecnologías en la sociedad y el beneficio que éstas pueden tener en las personas menos favorecidas.</p>
                 </div>
             </div>
         </div>
@@ -340,7 +325,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Contacto</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Únete a nosotros.</h3>
                 </div>
             </div>
             <div class="row">
