@@ -171,11 +171,10 @@
                             </div>
                         </li>
                         <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <h4>Be Part
-                                    <br>Of Our
-                                    <br>Story!</h4>
-                            </div>
+                            <a class="btn btn-success timeline-image" href="<?php echo base_url();?>noticias_controller" >
+                                <h4>Leer
+                                    <br>Más!</h4>
+                            </a>
                         </li>
                     </ul>
                 </div>
