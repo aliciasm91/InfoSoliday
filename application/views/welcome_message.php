@@ -94,7 +94,10 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="navbar-brand page-scroll" href="#page-top"><img src="styles/img/logotipo.jpg" class="img-responsive" alt=""></div>
+                <center>
+                <img src="styles/img/logotipo.jpg" class="img-responsive" alt="">
+                </center>
+                
                 <div class="intro-heading">Únete a nosotros</div>
             </div>
         </div>
