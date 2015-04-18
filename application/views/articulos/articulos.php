@@ -55,19 +55,19 @@
                         <a href="#page-top" ></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">Noticas Solidarias</a>
+                        <a class="page-scroll" href="<?php echo base_url();?>">Noticas Solidarias</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Alianzas & colaboradores</a>
+                        <a class="page-scroll" href="<?php echo base_url();?>">Alianzas & colaboradores</a>
                     </li>
                     <li>
-                         <a class="page-scroll" href="#team">Quienes Somos</a>
+                         <a class="page-scroll" href="<?php echo base_url();?>">Quienes Somos</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contacto</a>
+                        <a class="page-scroll" href="<?php echo base_url();?>">Contacto</a>
                     </li>
                     <li>
-                        <a href="<?php echo base_url();?>articulos_controller">Aticulos Donados</a>
+                        <a href="<?php echo base_url();?>articulos_controller">Artículos Donados</a>
                     </li>
                     <li>
                         <a href="<?php echo base_url();?>login_controller">Login</a>

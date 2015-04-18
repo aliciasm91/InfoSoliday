@@ -67,7 +67,7 @@
                         <a class="page-scroll" href="#contact">Contacto</a>
                     </li>
                     <li>
-                        <a href="<?php echo base_url();?>articulos_controller">Aticulos Donados</a>
+                        <a href="<?php echo base_url();?>articulos_controller">Artículos Donados</a>
                     </li>
                     <li>
                         <a href="<?php echo base_url();?>login_controller">Login</a>
@@ -171,11 +171,10 @@
                             </div>
                         </li>
                         <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <h4>Be Part
-                                    <br>Of Our
-                                    <br>Story!</h4>
-                            </div>
+                            <a class="btn btn-success timeline-image" href="<?php echo base_url();?>noticias_controller" >
+                                <h4>Leer
+                                    <br>Más!</h4>
+                            </a>
                         </li>
                     </ul>
                 </div>
