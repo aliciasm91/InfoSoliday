@@ -72,8 +72,8 @@
                     <li>
                         <a href="<?php echo base_url();?>login_controller">Login</a>
                     </li>
-                </ul>
-                <ul class="list-inline social-buttons">
+
+                      <ul class="list-inline social-buttons navbar-right">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -81,6 +81,9 @@
                             <li><a href="#"><i class="fa fa-linkedin"></i></a>
                             </li>
                 </ul>
+
+                </ul>
+              
             </div>
             <!-- /.navbar-collapse -->
         </div>
